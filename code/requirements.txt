@@ -1,0 +1,4 @@
+glob
+tqdm
+transformers==2.11.0
+
